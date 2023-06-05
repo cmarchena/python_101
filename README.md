@@ -1,4 +1,4 @@
-# Data Science Course
+# Python 101
 
 <a href="https://swc.s3.filebase.com/image 1.png"><img width=280 alt="female traveler" src="https://swc.s3.filebase.com/image 2.png"/></a>
 <a href="https://swc.s3.filebase.com/image 1.png"><img width=280 alt="Cheshire cat" src="https://swc.s3.filebase.com/image 1.png"/></a>
@@ -16,11 +16,9 @@ To provide you with the best possible experience, please answer the following qu
 ## 2. How far are you in your learning journey?
 ## 3. How much time are you allocating for learning?
 
+Please answer these questions via email. Also please indicate if you're interested in joining our Friday's Office Hour at 18h GMT+2
 
-This is a private repository so only we have access to it, please answer via email o message this time.
-
-Once you answer the questions and registered to the [platform](https://github.com") (it's free, only need an email account), I will send you the first assigment that you will answer using the platform so you can start getting familiarity with it. You will also have access to the [course repository](https://github.com/SprintWithCarlos/data_science_course)
-In the meanwhile, I will send you each day supporting material as preparation for our first class next Thursday.
+Once you answer the questions, you should start [here](https://github.com/cmarchena/python_101/blob/main/0.ramp_up/ramp_up.md)
 
 Hope you are doing well and looking forward to start!
 
